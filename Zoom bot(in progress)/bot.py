@@ -7,7 +7,7 @@ import calendar
 from schedule import *
 from classes import *
 
-zoom_path = r'C:\Users\siddh\AppData\Roaming\Zoom\bin\Zoom.exe'#path to the zoom app
+zoom_path = ''#path to the zoom app
 
 class Bot():
     def __init__(self,zoom_path,end_time):
